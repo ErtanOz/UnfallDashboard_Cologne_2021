@@ -4,6 +4,7 @@ UnfallDashboard (Open Data Portal Köln)
 Diese Webanwendung wurde entwickelt, um Daten aus dem Open Data Portal Köln interaktiv und benutzerfreundlich darzustellen. 
 Die Anwendung nutzt eine Kombination von Python-Bibliotheken, darunter Pandas für die Datenverarbeitung, NumPy für numerische Berechnungen und Requests für den Abruf von Daten aus dem Internet. 
 Das Frontend der App wurde mit Streamlit realisiert, einer einfachen und effizienten Bibliothek zur Erstellung von Webanwendungen in Python.
+Link to WebAPP: https://colognecrash.streamlit.app/
 
 Hauptfunktionen:
 Datenexploration: Nutzer können verschiedene Datensätze aus dem Open Data Portal Köln durchsuchen und analysieren.
