@@ -23,4 +23,4 @@ Requests: Zum Abrufen von Daten aus externen APIs.
 Frontend: Streamlit
 Ermöglicht die schnelle Erstellung von interaktiven Web-Anwendungen.
 
-Link to WebAPP: https://improved-engine-vwqpp64r6vg3xp9v.github.dev/
+Link to WebAPP: https://colognecrash.streamlit.app/
