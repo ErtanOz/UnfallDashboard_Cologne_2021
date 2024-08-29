@@ -21,3 +21,5 @@ Requests: Zum Abrufen von Daten aus externen APIs.
 
 Frontend: Streamlit
 Ermöglicht die schnelle Erstellung von interaktiven Web-Anwendungen.
+
+Link to WebAPP
