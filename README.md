@@ -6,7 +6,7 @@ Die Anwendung nutzt eine Kombination von Python-Bibliotheken, darunter Pandas f�
 Das Frontend der App wurde mit Streamlit realisiert, einer einfachen und effizienten Bibliothek zur Erstellung von Webanwendungen in Python.
 Link to WebAPP: https://colognecrash.streamlit.app/ oder https://huggingface.co/spaces/Archaeo/Cologne_Car_Crash
 
-Mit dem Projekt wurde gezielt darauf abgezielt, einen deskriptiven und später einen grundlegenden prädiktiven Analyseprozess für Unfalldaten zu entwickeln. Dies ermöglicht es, tiefere Einblicke in die Unfallursachen und -muster zu gewinnen und auf Basis dieser Erkenntnisse präventive Maßnahmen zu formulieren. Durch die fortschrittliche Analyse der gesammelten Daten können zukünftige Risiken minimiert und die Sicherheit im Verkehr effektiv erhöht werden.
+Mit dem Projekt wurde gezielt darauf abgezielt, einen **deskriptiven** und später einen grundlegenden **prädiktiven Analyseprozess** für Unfalldaten zu entwickeln. Dies ermöglicht es, tiefere Einblicke in die Unfallursachen und -muster zu gewinnen und auf Basis dieser Erkenntnisse präventive Maßnahmen zu formulieren. Durch die fortschrittliche Analyse der gesammelten Daten können zukünftige Risiken minimiert und die Sicherheit im Verkehr effektiv erhöht werden.
 
 Hauptfunktionen:
 Datenexploration: Nutzer können verschiedene Datensätze aus dem Open Data Portal Köln durchsuchen und analysieren.
